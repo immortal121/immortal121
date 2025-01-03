@@ -18,9 +18,9 @@ An AI Developer and Full Stack Web developer🎯  from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 <!--![Rohith Yarramala github stats](https://github-readme-stats.vercel.app/api?username=immortal121&theme=tokyonight&show_icons=true&hide=["issues"])-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immortal121&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithyarramala&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=immortal121)
+![](https://komarev.com/ghpvc/?username=rohithyarramala)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
